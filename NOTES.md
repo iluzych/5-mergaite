@@ -9,16 +9,21 @@
     - iterpti nuoroda i daroma dizaina
     - iterpti nuoroda kur musu kodas gali buti pamatytas
 - [x] atlikti dizaino analize
-- [ ] surasyti HTML
-- [ ] issikirpti nuotraukas ir jas panaudoti 
+- [x] surasyti HTML
+- [x] issikirpti nuotraukas ir jas panaudoti 
     - panaudoti reliatyvu kelia
     - PNG formatas, del permatomumo savybes
-- [ ] aprasome stiliu:
+- [x] aprasome stiliu:
     - turinys turi buti centre
     - pagrindinis plotis turi buti fiksuotas (pixeliais, ne procentais)
     - stiliu (CSS) atskirti nuo HTML
 
+# HTML/CSS rasymo strategija
 
+- israsyti kiek imanoma (isivaizduojama) HTML
+- issirasyti CSS selektorius (selector)
+- pradedant nuo labiausiai tevinio (is virsaus) selektoriaus, surasome reikiamus stilius
+- REPEAT - go to step 1
 
 # Pasiskaitymui
 
